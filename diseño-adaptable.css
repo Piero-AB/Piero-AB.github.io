@@ -1,0 +1,251 @@
+/*
+    POR HACER:
+    BLOQUEANTE: NO SE HA ENTREGADO UN DISEÑO ADAPTABLE
+    ESTO ES SOLO UN TRUCO PARA HACER QUE LA PÁGINA
+    SE VEA DECENTE EN CADA DISPOSITIVO.
+    POR NINGUN MOTIVO SE TIENE PLANEADO QUE ESTE SEA EL
+    DISEÑO FINAL.
+    LO IDEAL SERÍA PEDIR UN DISEÑO ADAPTABLE PARA
+    OTROS DISPOSITIVOS.
+    ELIMINAR UNA VEZ TE TENGA UN DISEÑO ADAPTABLE.
+*/
+
+@media (min-width: 0px) and (max-width: 150px) {
+    html {
+        font-size: 2.5%;
+    }
+}
+
+@media (min-width: 51px) and (max-width: 100px) {
+    html {
+        font-size: 5%;
+    }
+}
+
+@media (min-width: 101px) and (max-width: 150px) {
+    html {
+        font-size: 7.5%;
+    }
+}
+
+@media (min-width: 151px) and (max-width: 250px) {
+    html {
+        font-size: 10%;
+    }
+}
+
+@media (min-width: 251px) and (max-width: 300px) {
+    html {
+        font-size: 12.5%;
+    }
+}
+
+@media (min-width: 301px) and (max-width: 350px) {
+    html {
+        font-size: 15%;
+    }
+}
+
+@media (min-width: 351px) and (max-width: 400px) {
+    html {
+        font-size: 17.5%;
+    }
+}
+
+@media (min-width: 401px) and (max-width: 450px) {
+    html {
+        font-size: 20%;
+    }
+}
+
+@media (min-width: 451px) and (max-width: 500px) {
+    html {
+        font-size: 22.5%;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 550px) {
+    html {
+        font-size: 25%;
+    }
+}
+
+@media (min-width: 551px) and (max-width: 600px) {
+    html {
+        font-size: 27.5%;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 650px) {
+    html {
+        font-size: 30%;
+    }
+}
+
+@media (min-width: 651px) and (max-width: 700px) {
+    html {
+        font-size: 32.5%;
+    }
+}
+
+@media (min-width: 701px) and (max-width: 750px) {
+    html {
+        font-size: 35%;
+    }
+}
+
+@media (min-width: 751px) and (max-width: 800px) {
+    html {
+        font-size: 37.5%;
+    }
+}
+
+@media (min-width: 801px) and (max-width: 850px) {
+    html {
+        font-size: 40%;
+    }
+}
+
+@media (min-width: 851px) and (max-width: 900px) {
+    html {
+        font-size: 42.5%;
+    }
+}
+
+@media (min-width: 901px) and (max-width: 950px) {
+    html {
+        font-size: 45%;
+    }
+}
+
+@media (min-width: 951px) and (max-width: 1000px) {
+    html {
+        font-size: 47.5%;
+    }
+}
+
+@media (min-width: 1001px) and (max-width: 1050px) {
+    html {
+        font-size: 50%;
+    }
+}
+
+@media (min-width: 1051px) and (max-width: 1100px) {
+    html {
+        font-size: 52.5%;
+    }
+}
+
+@media (min-width: 1101px) and (max-width: 1150px) {
+    html {
+        font-size: 55%;
+    }
+}
+
+@media (min-width: 1151px) and (max-width: 1200px) {
+    html {
+        font-size: 57.5%;
+    }
+}
+
+@media (min-width: 1201px) and (max-width: 1250px) {
+    html {
+        font-size: 60%;
+    }
+}
+
+@media (min-width: 1251px) and (max-width: 1300px) {
+    html {
+        font-size: 62.5%;
+    }
+}
+
+@media (min-width: 1301px) and (max-width: 1350px) {
+    html {
+        font-size: 65%;
+    }
+}
+
+@media (min-width: 1351px) and (max-width: 1400px) {
+    html {
+        font-size: 67.5%;
+    }
+}
+
+@media (min-width: 1401px) and (max-width: 1450px) {
+    html {
+        font-size: 70%;
+    }
+}
+
+@media (min-width: 1451px) and (max-width: 1500px) {
+    html {
+        font-size: 72.5%;
+    }
+}
+
+@media (min-width: 1501px) and (max-width: 1550px) {
+    html {
+        font-size: 75%;
+    }
+}
+
+@media (min-width: 1551px) and (max-width: 1600px) {
+    html {
+        font-size: 77.5%;
+    }
+}
+
+@media (min-width: 1601px) and (max-width: 1650px) {
+    html {
+        font-size: 80%;
+    }
+}
+
+@media (min-width: 1651px) and (max-width: 1700px) {
+    html {
+        font-size: 82.5%;
+    }
+}
+
+@media (min-width: 1701px) and (max-width: 1750px) {
+    html {
+        font-size: 85%;
+    }
+}
+
+@media (min-width: 1751px) and (max-width: 1800px) {
+    html {
+        font-size: 87.5%;
+    }
+}
+
+@media (min-width: 1801px) and (max-width: 1850px) {
+    html {
+        font-size: 90%;
+    }
+}
+
+@media (min-width: 1851px) and (max-width: 1900px) {
+    html {
+        font-size: 92.5%;
+    }
+}
+
+@media (min-width: 1901px) and (max-width: 1950px) {
+    html {
+        font-size: 95%;
+    }
+}
+
+@media (min-width: 1951px) and (max-width: 2000px) {
+    html {
+        font-size: 97.5%;
+    }
+}
+
+@media (min-width: 2001px) {
+    html {
+        font-size: 100%;
+    }
+}

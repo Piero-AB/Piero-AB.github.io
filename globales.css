@@ -1,0 +1,27 @@
+:root {
+    /* GLOBALS */
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+
+    /* GLOBAL VARIABLES */
+    --font-source-serif-4: "Source Serif 4";
+    --font-exo-2: "Exo 2";
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+  appearance: button;
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bounce Back Horizontal Scroll</title>
+  <style>
+    .container {
+      width: 100%;
+      height: 200px;
+      overflow: hidden;
+      position: relative;
+      border: 2px solid black;
+    }
+
+    .scroll-content {
+      display: flex;
+      animation: bounceX 10s ease-in-out infinite; /* Adjust speed with 10s */
+    }
+
+    .scroll-content div {
+      flex: 1 0 100%;
+      height: 100%;
+      background-color: lightblue;
+      margin-right: 10px;
+    }
+
+    @keyframes bounceX {
+      0% {
+        transform: translateX(0); /* Start at the original position */
+      }
+      25% {
+        transform: translateX(-100%); /* Scroll left by 100% of the container width */
+      }
+      50% {
+        transform: translateX(0); /* Return to original position */
+      }
+      75% {
+        transform: translateX(100%); /* Scroll right by 100% of the container width */
+      }
+      100% {
+        transform: translateX(0); /* Return to original position */
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="scroll-content">
+      <div>Item 1</div>
+      <div>Item 2</div>
+      <div>Item 3</div>
+      <div>Item 4</div>
+      <div>Item 5</div>
+    </div>
+  </div>
+</body>
+</html>
