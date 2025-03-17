@@ -86,7 +86,7 @@
                     carrusel.style.transform = "translateX(0%)";
                     elementoActivo = primerElemento;
                 }
-            }, 4000);
+            }, 6000);
 
             observer?.disconnect();
         });
@@ -296,7 +296,7 @@ const manejarCambioDePerteneceAEmpresa = () => {
             tag: "input",
             type: "text",
             id: "razon-social",
-            placeholder: "Razon social",
+            placeholder: "Razón social",
             maxLength: 30,
             oninput: validarRazonSocialAlIngresarTexto,
         }
