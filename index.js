@@ -372,7 +372,7 @@ const enviarFormulario = (e) => {
     botonEnviar.disabled = true;
     botonEnviar.style.cursor = "auto"
 
-    fetch("https://formcarry.com/s/B7UoBKOJ9DX", {
+    fetch("https://formcarry.com/s/Rdfe8INYN-y", {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
         body: JSON.stringify({
