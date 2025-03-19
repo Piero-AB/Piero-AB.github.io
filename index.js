@@ -1,3 +1,12 @@
+/* ---------------------------------- */
+/* MENSAJE WHATSAPP */
+/* ---------------------------------- */
+
+const linkWspBase = "https://web.whatsapp.com/send?phone=+51934219344&text="
+const linkWspContent = "¡Hola YEI, deseo sumarme al desafío y aportar a democratizar la innovación en la educación! \n Quiero más información 🙌🏼"
+
+document.getElementById('wsp').href = `${linkWspBase}${encodeURIComponent(linkWspContent)}`
+
 /* --------------------------- */
 /* IMPACTO ACTUAL - CONTADORES */
 /* --------------------------- */
@@ -31,6 +40,11 @@
             }
         }
     }
+
+
+    
+
+
 
     const animacionDeContadores = (entries, _observer) => {
         entries.forEach(entry => {
