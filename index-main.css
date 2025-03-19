@@ -85,7 +85,7 @@ main > section > div > h2 {
 /* ----------- */
 
 #formula-yei > img {
-    background-color: #E899D2;
+    background-color: #d498cf;
 }
 
 #formula-yei > div {
@@ -110,7 +110,7 @@ main > section > div > h2 {
 }
 
 #formula-yei > div > div > h2 {
-    color: #5035e8;
+    color: #4b38e3;
     font-family: var(--font-source-serif-4);
     font-size: 5rem;
     line-height: normal;
@@ -125,7 +125,7 @@ main > section > div > h2 {
 }
 
 #formula-yei > div > p > span {
-    color: #5035e8;
+    color: #4b38e3;
 }
 
 /* ------------------ */
@@ -133,7 +133,7 @@ main > section > div > h2 {
 /* ------------------ */
 
 #programa-inmersivo > img {
-    background-color: #F18231;
+    background-color: #d8813a;
 }
 
 #programa-inmersivo > div {
@@ -179,7 +179,7 @@ main > section > div > h2 {
 }
 
 #programa-immersivo-valores > div > p > span {
-    color: #5035e8;
+    color: #4b38e3;
     font-weight: bold;
 }
 
@@ -188,7 +188,7 @@ main > section > div > h2 {
 /* ------ */
 
 #mision > img {
-    background-color: #F2D432;
+    background-color: #e9d346;
 }
 
 #mision > div {
@@ -213,7 +213,7 @@ main > section > div > h2 {
 }
 
 #mision > div > div > h2 {
-    color: #5035e8;
+    color: #4b38e3;
     font-family: var(--font-source-serif-4);
     font-size: 5rem;
     line-height: normal;
@@ -226,13 +226,13 @@ main > section > div > h2 {
 }
 
 #mision > div > p:nth-of-type(1) > span {
-    color: #5035e8;
+    color: #4b38e3;
     font-weight: bold;
 }
 
 #mision > div > #mision-counter {
     width: 100%;
-    background: linear-gradient(to right, #5035e8 50%, transparent 50%);
+    background: linear-gradient(to right, #4b38e3 50%, transparent 50%);
     padding-left: 3em;
 }
 
@@ -244,7 +244,7 @@ main > section > div > h2 {
     text-align: center;
     font-weight: bold;
     font-size: 1.875rem;
-    color: #5035e8;
+    color: #4b38e3;
 }
 
 #mision > div > p:nth-of-type(2) {
@@ -257,7 +257,7 @@ main > section > div > h2 {
 /* -------------- */
 
 #impacto-actual > img {
-    background-color: #F18231;
+    background-color: #d8813a;
 }
 
 #impacto-actual > div {
@@ -309,7 +309,7 @@ main > section > div > h2 {
 #impacto-actual > div > #impacto-actual-metricas > div {
     font-size: 8.125rem;
     font-weight: bold;
-    color: #5035e8;
+    color: #4b38e3;
 
     display: flex;
     justify-content: center;
@@ -378,7 +378,7 @@ main > section > div > h2 {
 }
 
 #sumate-al-desafio-1 > img {
-    background-color: #F18231;
+    background-color: #d8813a;
 }
 
 #sumate-al-desafio-1 > div {
@@ -403,7 +403,7 @@ main > section > div > h2 {
 }
 
 #sumate-al-desafio-1 > div > #sumate-al-desafio-1-titulo > h2 {
-    color: #5035e8;
+    color: #4b38e3;
     font-family: var(--font-source-serif-4);
     font-size: 5rem;
     line-height: normal;
@@ -411,7 +411,7 @@ main > section > div > h2 {
 }
 
 #sumate-al-desafio-2 > img:nth-of-type(1) {
-    background-color: #F18231;
+    background-color: #d8813a;
     grid-column: 1 / 7;
     grid-row: span var(--grid-rows);
     width: 100%;
@@ -429,7 +429,7 @@ main > section > div > h2 {
 }
 
 #sumate-al-desafio-2 > img:nth-of-type(2) {
-    background-color: #5035e8;
+    background-color: #4b38e3;
     grid-column: 7 / 13;
     grid-row: span var(--grid-rows);
     width: 100%;
@@ -536,7 +536,7 @@ main > section > div > h2 {
 /* ---- */
 
 #meta > img {
-    background-color: #5035E8;
+    background-color: #4b38e3;
 }
 
 #meta > div {
@@ -570,7 +570,7 @@ main > section > div > h2 {
 }
 
 #meta > div > div > h2 > span {
-    color: #f18231;
+    color: #d8813a;
 }
 
 #meta > div > div > p:nth-of-type(1) {
@@ -602,7 +602,7 @@ main > section > div > h2 {
 
 #meta-formulario > input,
 #meta-formulario > select {
-    background-color: #5035e8;
+    background-color: #4b38e3;
     border: 1px solid white;
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -613,7 +613,7 @@ main > section > div > h2 {
 
 #meta-formulario > input:focus,
 #meta-formulario > select:focus {
-    border-color: #f18231;
+    border-color: #d8813a;
     outline: none;
 }
 
@@ -669,7 +669,7 @@ main > section > div > h2 {
     grid-column: 2 / 4;
     grid-row: -2 / -1;
 
-    color: #5035e8;
+    color: #4b38e3;
     border: none;
     border-radius: 2rem;
     cursor: pointer;
