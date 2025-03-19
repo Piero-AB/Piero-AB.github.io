@@ -14,7 +14,7 @@ main > a:nth-of-type(1) {
 main > section {
     --grid-columns: 12;
     --grid-rows: 12;
-
+    min-height: 67.5rem;
     width: 100%;
     position: relative;
     display: grid;
